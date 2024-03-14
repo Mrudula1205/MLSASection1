@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Mrudula Rahate",
-  title: "ML Enthusiast & Open Source Contributor",
+  title: "ML/AI Enthusiast & Open Source Contributor",
   email: "mrudula12523@gmail.com",
   gitHub: "Mrudula1205",
   instagram: "mrudula12503",
