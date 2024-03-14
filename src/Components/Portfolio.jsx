@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/pexels-christina-morillo-1181271.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "GoBITS Navigation App",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Android mobile application that helps students navigate through the campus. It provides a map of the campus and helps students find the shortest path to their destination.",
+    url: "https://github.com/Mrudula1205/GoBITS_PS1",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Microsoft Tech Club BPDC Website",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Contributed in developing the official website for Microsoft Technology Club BPDC. The website is developed using HTML, CSS and JavaScript.",
+    url: "https://mtcbpdcdubai.github.io/mtc_bpdc/",
   },
   {
-    title: "My Resume Site",
+    title: "Snake Game",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "A simple snake game developed using Java. The game is played on a grid and the snake grows as it eats the food. The game ends when the snake hits the wall or itself",
+    url: "https://github.com/Mrudula1205/Snake-Game",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Blood Bank Management System",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Blood bank management system is a web application that is designed to store, process, retrieve and analyze information concerned with the administrative and inventory management within a blood bank.",
+    url: "https://github.com/Mrudula1205/Blood-Bank-Management-Project",
   },
 ];
 
